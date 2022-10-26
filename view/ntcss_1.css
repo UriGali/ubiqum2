@@ -1,0 +1,73 @@
+ ul{
+    list-style-type: none;
+    position: relative;
+    bottom: 589px;
+    text-align: right;
+    left: -80px;
+    font-size: 30px
+    
+ }
+ 
+ 
+ .img{
+    border: 3px solid blue;
+    position: relative;
+    left: 50px;
+    width: 1389px;
+    height: 501px;
+    bottom: -48px;
+}
+ 
+ 
+ li{
+    display: inline;
+    
+ }
+
+ a{
+    border: 2px solid blue;
+    background-color: cornflowerblue;
+ }
+ .title{
+    right: -84px;
+    font-size: 27px;
+    position: relative;
+    bottom: 544px;
+ }
+ .events{
+    border: 2px solid black;
+    position: relative;
+    text-align: center;
+    bottom: 136px;
+    left: 50px;
+    width: 1391px;
+ }
+
+ .logo{
+    bottom: 114px;
+    position: relative;
+    left: 42px;
+ }
+ .information{
+    left: 405px;
+    width: 382px;
+    bottom: 213px;
+    position: relative;
+    font-size: 29px;
+}
+.nsns{
+    bottom: 285px;
+    left: 381px;
+    position: relative;
+    width: 612px;
+    font-size: 21px;
+  }
+
+ .contact{
+    bottom: 241px;
+    position: relative;
+    font-size: 30px;
+    left: 211px;
+ }
+ 
+ 

@@ -1,0 +1,66 @@
+ .title{
+    position: relative;
+    bottom: 545px;
+    font-size: 40px;
+    left: 80px
+ }
+
+ ul{
+    position: relative;
+    bottom: 63px;
+    font-size: 32px;
+    list-style-type: none;
+ }
+ 
+
+ .events{
+    border: 3px solid blue;
+    position: relative;
+    text-align: center;
+    bottom: 318px;
+    width: 1388px;
+    left: 61px;
+    background-color: cadetblue;
+ }
+
+
+ .img{
+    border: 3px solid blue;
+    position: relative;
+    left: 61px;
+    width: 1388px;
+ }
+
+
+ .logo{
+    position: relative;
+    bottom: 440px;
+    left: 1238px;
+    border: 2px solid blue;
+    width: 150px;
+ }
+
+
+ .information{
+    position: relative;
+    bottom: 419px;
+    font-size: 22px;
+    left: 265px;
+ }
+ 
+
+
+ .contact{position: relative;
+    font-size: 30px;
+    bottom: 467px;
+    left: 266px;
+}
+
+
+.nsns{    
+    position: relative;
+    font-size: 20px;
+    bottom: 459px;
+    width: 782px;
+    left: 259px;
+}
